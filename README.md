@@ -10,11 +10,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Flutter | C++ | R (Statistics) | MATLAB
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Golang
+- 💻 &nbsp; Node.js | Golang
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap  | ReactJS 
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign | Figma
+- 🔧 &nbsp; Git | Markdown 
+- 🖥 &nbsp; Figma
 
 <br/>
 
