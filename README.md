@@ -11,8 +11,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Node.js | Golang
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap  | ReactJS 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🌐 &nbsp; HTML | CSS | JavaScript  | ReactJS 
+- 🛢 &nbsp; MongoDB
 - 🔧 &nbsp; Git | Markdown 
 - 🖥 &nbsp; Figma
 
@@ -23,7 +23,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://lucadavid075.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-lucadavid075.github.io-green?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/lucadavid075/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lucadavid075-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/lucadavid075/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lucadavid075-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:daiveedlucas049@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-daiveedlucas049@gmail.com-blue?style=flat-square&logo=gmail"></a>
