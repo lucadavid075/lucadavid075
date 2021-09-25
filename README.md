@@ -18,7 +18,7 @@
 
 <br/>
 
-[![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucadavid075&show_icons=true)](https://github.com/lucadavid075)
+<!--[![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucadavid075&show_icons=true)](https://github.com/lucadavid075)-->
 
 <h3> 🤝🏻 Connect with Me </h3>
 
