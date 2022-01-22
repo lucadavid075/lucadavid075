@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Node.js | Golang
+- 💻 &nbsp; Node.js | Golang | Python
 - 🌐 &nbsp; HTML | CSS | JavaScript  | ReactJS 
 - 🛢 &nbsp; MongoDB
 - 🔧 &nbsp; Git | Markdown 
