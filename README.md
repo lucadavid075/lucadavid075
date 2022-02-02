@@ -3,15 +3,15 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science.
+- 🎓 &nbsp; Studied Computer Science.
 - 💼 &nbsp; Working as a freelancer.
-- 🌱 &nbsp; Learning more about Information security, Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Information security, Cloud Architecture and Blockchain Technology <!--Systems Design and Artificial Intelligence.-->
+- ✍️ &nbsp; Pursuing Graphic/UI/UX Design and Blog Writing as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Node.js | Golang | Python
-- 🌐 &nbsp; HTML | CSS | JavaScript  | ReactJS 
+- 💻 &nbsp; Node.js | Python 
+- 🌐 &nbsp; HTML | CSS | JavaScript| TypeScript | ReactJS 
 - 🛢 &nbsp; MongoDB
 - 🔧 &nbsp; Git | Markdown 
 - 🖥 &nbsp; Figma
